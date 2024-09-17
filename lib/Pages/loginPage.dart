@@ -62,7 +62,7 @@ class _LoginPageState extends State<LoginPage> {
               onPressed: () {},
               icon: Icon(Icons.remove_red_eye),
             ),
-            hintText: 'Masukan Password',
+            hintText: 'Masukan Password dong',
             border: OutlineInputBorder(
               borderRadius: BorderRadius.all(Radius.circular(12)),
               borderSide: BorderSide(width: 3, color: Colors.blue),
